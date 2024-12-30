@@ -11,7 +11,8 @@
   },
   "ServerListClient": {
     "error_message": "環境変数を確認し、サーバーコンソールを確認してください",
-    "defaultTag": "すべて"
+    "defaultTag": "すべて",
+    "connecting": "接続中"
   },
   "ServerCard": {
     "System": "システム",
@@ -74,6 +75,7 @@
     "Offline": "オフライン",
     "Uptime": "稼働時間",
     "Days": "日",
+    "Hours": "時間",
     "Version": "バージョン",
     "Arch": "アーキテクチャ",
     "Mem": "メモリ",
